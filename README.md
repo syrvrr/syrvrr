@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
+
+[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=syrvrr&layout=compact&theme=radical&border_color=141E61]
