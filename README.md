@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://sayray303.github.io">About Me</a>
     ·
-    <a href="mailto:andi.prayogi30@gmail.com">Email</a>
+    <a href="mailto:andiprayogi@itsi.ac.id">Email</a>
     ·
     <a href="https://linkedin.com/in/andi-prayogi-2a8a11157">LinkedIn</a>
 </p>
