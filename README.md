@@ -21,10 +21,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **[MUJAKA](https://www.mujaka.net/)**.
+- 🔭 I’m currently working on **[EVERYWHERE]**.
 - 🌱 I’m currently learning **Software Engineer and Machine Learning**
 - 💬 Ask me about **Networking, Python, Machine Learning, AI Algorithm, Software Engineer, PHP Framework, Javascript, git**.
-- 📫 How to reach me: andi.prayogi30@gmail.com
+- 📫 How to reach me: andiprayogi@itsi.ac.id
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm calling a Knowledge as a  Friends.
 
